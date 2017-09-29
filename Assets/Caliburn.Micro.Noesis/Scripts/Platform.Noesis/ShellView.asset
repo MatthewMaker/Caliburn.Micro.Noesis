@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf875188b24dc24badcb08511090b87, type: 3}
+  m_Name: ShellView
+  m_EditorClassIdentifier: 
+  source: Assets/Caliburn.Micro.Noesis/Scripts/Platform.Noesis/ShellView.xaml
+  content: "\uFEFF<UserControl\r\n    x:Class=\"Caliburn.Micro.ShellView\"\r\n    xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"\r\n
+    \   xmlns:x=\"http://schemas.microsoft.com/winfx/2006/xaml\"\r\n    xmlns:d=\"http://schemas.microsoft.com/expression/blend/2008\"\r\n
+    \   xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\"\r\n
+    \   d:DesignHeight=\"300\"\r\n    d:DesignWidth=\"300\"\r\n    mc:Ignorable=\"d\">\r\n\r\n
+    \   <Grid Background=\"White\">\r\n        <TextBlock\r\n            HorizontalAlignment=\"Center\"\r\n
+    \           VerticalAlignment=\"Center\"\r\n            FontSize=\"20\"\r\n            Text=\"Hello
+    Caliburn Micro!\" />\r\n    </Grid>\r\n</UserControl>\r\n\r\n"
+  error: 
+  fonts: []
+  texturePaths: []
+  textures: []
+  xamls: []

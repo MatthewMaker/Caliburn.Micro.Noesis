@@ -1,0 +1,60 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ibrary/
+sysinfo.txt
+[Aa]ssets/[Ss]treaming[Aa]ssets/
+[Aa]ssets/[Ss]treaming[Aa]ssets.meta
+packages/
+packages
+UnityPackages
+[Aa]ssets/[Nn]oesis[Gg][Uu][Ii]/
+[Aa]ssets/[Nn]oesis[Gg][Uu][Ii]
+[Aa]ssets/[Nn]oesis[Gg][Uu][Ii].meta
+[Nn]oesis[Dd]oc/
+[Nn]oesis[Dd]oc
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*.aps
+/*.pch
+/*.vspscc
+/*_i.c
+/*_p.c
+/*.ncb
+/*.bak
+/*.cache
+/*.ilk
+/*.log
+[Bb]in
+[Dd]ebug*/
+/*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
